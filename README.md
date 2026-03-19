@@ -47,3 +47,4 @@ Has restricted management access. Can only view, create, and delete standard `US
 ### 👤 User
 Standard access. Can view their own profile but has no access to user management features. 
 *You can create a new standard user by using the "Register" link on the Login page.*
+
