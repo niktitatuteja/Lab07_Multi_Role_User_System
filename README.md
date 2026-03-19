@@ -1,3 +1,4 @@
+
 # Multi-Role User System (API + UI)
 
 This project implements a complete Role-Based Access Control (RBAC) system using a **Node.js/Express** backend and a **React (Vite)** frontend. It features JWT-based authentication, password hashing with bcrypt, and fine-grained authorization across different user roles (SUPER_ADMIN, ADMIN, and USER).
@@ -47,3 +48,19 @@ Has restricted management access. Can only view, create, and delete standard `US
 ### 👤 User
 Standard access. Can view their own profile but has no access to user management features. 
 *You can create a new standard user by using the "Register" link on the Login page.*
+
+# Lab 06 - Node Backend + GitHub Push (Fullstack Skeleton)
+
+## Student Details
+Name: Nikita Rani
+Enrollment: CS-23411267
+Section: 3CSE15
+
+## Run Backend
+cd backend
+npm install
+npm start
+
+## Routes
+/ , /about , /health
+
