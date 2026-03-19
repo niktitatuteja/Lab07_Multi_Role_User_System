@@ -49,18 +49,4 @@ Has restricted management access. Can only view, create, and delete standard `US
 Standard access. Can view their own profile but has no access to user management features. 
 *You can create a new standard user by using the "Register" link on the Login page.*
 
-# Lab 06 - Node Backend + GitHub Push (Fullstack Skeleton)
-
-## Student Details
-Name: Nikita Rani
-Enrollment: CS-23411267
-Section: 3CSE15
-
-## Run Backend
-cd backend
-npm install
-npm start
-
-## Routes
-/ , /about , /health
 
